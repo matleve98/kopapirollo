@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kopapirollo/static/css/main.f855e6bc.css",
-    "main.js": "/kopapirollo/static/js/main.b0a284b1.js",
+    "main.js": "/kopapirollo/static/js/main.6bda1291.js",
     "static/js/453.8ab44547.chunk.js": "/kopapirollo/static/js/453.8ab44547.chunk.js",
     "index.html": "/kopapirollo/index.html",
     "main.f855e6bc.css.map": "/kopapirollo/static/css/main.f855e6bc.css.map",
-    "main.b0a284b1.js.map": "/kopapirollo/static/js/main.b0a284b1.js.map",
+    "main.6bda1291.js.map": "/kopapirollo/static/js/main.6bda1291.js.map",
     "453.8ab44547.chunk.js.map": "/kopapirollo/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b0a284b1.js"
+    "static/js/main.6bda1291.js"
   ]
 }
